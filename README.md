@@ -46,7 +46,5 @@ Install as usual,
 * Happy coding.
 
 ## Screen Shoots
-
+<img src="https://github.com/TimurGaysin/Bybit/blob/master/screenshots/splash_screen.png" width="300" height="650">  <img src="https://github.com/TimurGaysin/Bybit/blob/master/screenshots/loading_screen.png" width="300" height="650"> 
 <img src="https://github.com/TimurGaysin/Bybit/blob/master/screenshots/announcements_screen.png" width="300" height="650"> 
-<img src="https://github.com/TimurGaysin/Bybit/blob/master/screenshots/loading_screen.png" width="300" height="650"> 
-<img src="https://github.com/TimurGaysin/Bybit/blob/master/screenshots/splash_screen.png" width="300" height="650"> 
