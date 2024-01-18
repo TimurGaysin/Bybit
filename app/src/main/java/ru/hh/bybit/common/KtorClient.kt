@@ -18,8 +18,6 @@ private const val TIME_OUT = 60_000L
 
 val ktorHttpClient = HttpClient(CIO) {
 
-    install(WebSockets)
-
     install(ContentNegotiation) {
         json(Json {
             prettyPrint = true
